@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# Firebase Db 
+/src/components/Login/
+/src/components/Dashboard/
+/src/firebase.js
+client_secret_16221924125-hs8tcjct1iokr8qso8f8g3hlhbi4q2p7.apps.googleusercontent.com.json
 # testing
 /coverage
 

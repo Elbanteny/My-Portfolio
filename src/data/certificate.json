@@ -1,0 +1,36 @@
+{
+    "certificate": [
+        {
+            "img": "/certificate/progate-html-css.png",
+            "description": "Progate Html-Css"
+        },
+        {
+            "img": "/certificate/eduwork-cert.png",
+            "description": "Eduwork MERN Stack"
+        },
+        {
+            "img": "/certificate/AC-Linux.png",
+            "description": "Aguna Course Linux Fundamental"
+        },
+        {
+            "img": "/certificate/AC-Network.png",
+            "description": "Aguna Course Network Fundamental"
+        },
+        {
+            "img": "/certificate/AC-python.png",
+            "description": "Aguna Course Python Fundamental"
+        },
+        {
+            "img": "/certificate/Flutter-Pemula.png",
+            "description": "ItBox Flutter Pemula"
+        },
+        {
+            "img": "/certificate/Flutter-Menengah.png",
+            "description": "Itbox Flutter Menengah"
+        },
+        {
+            "img": "/certificate/DevTown-certificate.png",
+            "description": "DevTown Appreciation"
+        }
+    ]
+}
