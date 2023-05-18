@@ -6,7 +6,6 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Certificate from './components/Certificate';
-// import Dashboard from './components/Dashboard';
 
 function App() {
   return (
@@ -18,7 +17,6 @@ function App() {
           <Route path="contact" element={<Contact />} />
           <Route path="portfolio" element={<Portfolio />} />
           <Route path="certificate" element={<Certificate />} />
-//           <Route path="dashboard" element={<Dashboard />} />
         </Route>
       </Routes>
     </>
