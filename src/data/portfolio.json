@@ -11,6 +11,24 @@
             "title": "Portfolio By Tailwind",
             "description": "TailwindCss, JS, HTML",
             "url": "https://elbanteny.github.io/portfolio-tailwind-css/"
+        },
+        {
+            "cover": "/portfolio/AnimeQuoteWaifu.png",
+            "title": "AnimeQuotesWaifu",
+            "description": "React,NextJs,Tailwind",
+            "url": "https://elbanteny.github.io/portfolio-tailwind-css/"
+        },
+        {
+            "cover": "/portfolio/Promptophia.png",
+            "title": "Promptophia",
+            "description": "React,NextJs,Tailwind",
+            "url": "https://elbanteny.github.io/portfolio-tailwind-css/"
+        },
+        {
+            "cover": "/portfolio/Threads-clone.png",
+            "title": "Threads Clone",
+            "description": "Nextjs, Clerk, ShadCn",
+            "url": "https://elbanteny.github.io/portfolio-tailwind-css/"
         }
     ]
 }
